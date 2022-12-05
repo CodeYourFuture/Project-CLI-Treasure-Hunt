@@ -1,0 +1,16 @@
+ANSWER HERE
+
+node clue.js
+cd Clues/Where
+node clue.js
+cd ./How
+node clue.js
+cd What
+cd What
+node clue.js
+touch answer.txt
+ls -a
+cd ..
+ls
+cd Who
+node clue.js
