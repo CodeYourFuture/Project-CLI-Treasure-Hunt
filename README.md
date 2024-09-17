@@ -13,3 +13,5 @@ Travel around the game to follow the clues to the answer.
 - Type `node clue.js` every time you land in a new folder.
 - When you've got the answer, keep the secret!
 - Type `node clue.js` now.
+
+finally (Answer.txt  clue.js  help.js)
